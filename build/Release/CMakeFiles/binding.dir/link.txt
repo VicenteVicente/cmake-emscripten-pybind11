@@ -1,1 +1,0 @@
-/usr/bin/em++ -O3 -DNDEBUG -O3         -g0         -lembind         -sMODULARIZE=1         -sEXPORT_NAME=MyLibrary         -sEXPORT_ES6=1         -sSINGLE_FILE=1         -sINITIAL_MEMORY=128MB         -sALLOW_MEMORY_GROWTH=1         -sMEMORY_GROWTH_GEOMETRIC_STEP=1.0         -sMEMORY_GROWTH_GEOMETRIC_CAP=0 @CMakeFiles/binding.dir/objects1 -o binding.js 

@@ -1,3 +1,0 @@
-/home/zeus/REmatch/emscripten-test/build/Release/CMakeFiles/binding.dir
-/home/zeus/REmatch/emscripten-test/build/Release/CMakeFiles/edit_cache.dir
-/home/zeus/REmatch/emscripten-test/build/Release/CMakeFiles/rebuild_cache.dir
