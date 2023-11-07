@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <script type="module">
-    import MyLibrary from "./build/Release/binding.js";
+    import MyLibrary from "./build/binding.js";
 
     MyLibrary().then((instance) => {
       instance.hello_world("You");
@@ -9,5 +9,5 @@
       instance.memory(1 * 1024 * 1024 * 1024);
     });
   </script>
-  <script type="module" src="build/Release/binding.js"></script>
+  <script type="module" src="build/binding.js"></script>
 </html>
